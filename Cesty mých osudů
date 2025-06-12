@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Cesty mých osudů</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #111;
+      color: #f0f0f0;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      background-color: #222;
+      padding: 2rem;
+      text-align: center;
+    }
+    header h1 {
+      font-size: 2.5rem;
+      margin: 0;
+    }
+    main {
+      padding: 2rem;
+      max-width: 800px;
+      margin: auto;
+    }
+    section {
+      margin-bottom: 2rem;
+    }
+    a {
+      color: #00acee;
+      text-decoration: none;
+    }
+    .links a {
+      display: inline-block;
+      margin: 0.5rem 1rem;
+    }
+    footer {
+      text-align: center;
+      padding: 1rem;
+      font-size: 0.9rem;
+      background-color: #222;
+      margin-top: 2rem;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Cesty mých osudů</h1>
+    <p>Hudební projekt Svatoslava Hrubého</p>
+  </header>
+  <main>
+    <section>
+      <h2>O projektu</h2>
+      <p>Tento web představuje hudební album, které vzniklo ze skutečných příběhů a emocí. Každá píseň je otiskem života, bolesti i naděje. Je to cesta duše vyjádřená hudbou a slovem.</p>
+    </section>
+
+    <section>
+      <h2>Vydané skladby</h2>
+      <ul>
+        <li>Noční zpověď</li>
+        <li>Naděje</li>
+        <li>Strom</li>
+        <li>Pramen času</li>
+        <li>Touha</li>
+        <li>Život je hra</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Sledujte & Podpořte</h2>
+      <div class="links">
+        <a href="https://www.startovac.cz/projekty/cesty-mych-osudu" target="_blank">Startovač</a>
+        <a href="https://www.youtube.com/@cestymychosudu" target="_blank">YouTube</a>
+        <a href="https://www.facebook.com/cestymychosudu" target="_blank">Facebook</a>
+        <a href="https://www.instagram.com/cestymychosudu" target="_blank">Instagram</a>
+        <a href="https://twitter.com/cestymychosudu" target="_blank">Twitter</a>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    &copy; 2025 Svatoslav Hrubý | Všechna práva vyhrazena
+  </footer>
+</body>
+</html>
